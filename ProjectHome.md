@@ -1,0 +1,1 @@
+Tools for Indonesian (Bahasa Indonesia) text processing, such as: stemmer, part of speech tagger
